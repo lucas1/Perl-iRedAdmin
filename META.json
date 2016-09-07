@@ -55,6 +55,7 @@
          "http://opensource.org/licenses/artistic-license-2.0.php"
       ],      
       "bugtracker" : {
+<<<<<<< 42c8c51ea6eebe280b4cbfb5792a6c7bafd082fd
          "web" : "https://github.com/lucas1/iRedAdmin/issues"
       },
       "homepage" : "https://github.com/lucas1/iRedAdmin",
@@ -64,4 +65,15 @@
       }
    },   
    "version" : "0.01"
+=======
+         "web" : "https://github.com/lucas1/Perl-iRedAdmin/issues"
+      },
+      "homepage" : "https://github.com/lucas1/Perl-iRedAdmin",
+      "repository" : {
+         "url" : "git://github.com/lucas1/Perl-iRedAdmin.git",
+         "web" : "https://github.com/lucas1/Perl-iRedAdmin"
+      }
+   },   
+   "version" : "0.02"
+>>>>>>> change github and pod
 }

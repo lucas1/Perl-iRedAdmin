@@ -150,7 +150,11 @@ iRedAdmin::User - API for add, edit, delete, enable and disable User
 
 =head1 VERSION
  
+<<<<<<< 42c8c51ea6eebe280b4cbfb5792a6c7bafd082fd
 Version 0.01
+=======
+Version 0.02
+>>>>>>> change github and pod
  
 =cut
  
@@ -185,7 +189,11 @@ Method to add User.
 
 =cut
 
+<<<<<<< 42c8c51ea6eebe280b4cbfb5792a6c7bafd082fd
 =head4 Arguments
+=======
+=head3 Arguments
+>>>>>>> change github and pod
 
 B<email>
 
@@ -210,7 +218,11 @@ Method to edit User.
 
 =cut
 
+<<<<<<< 42c8c51ea6eebe280b4cbfb5792a6c7bafd082fd
 =head4 Arguments
+=======
+=head3 Arguments
+>>>>>>> change github and pod
 
 B<email>
 
@@ -238,7 +250,11 @@ Method to change password of User.
 
 =cut 
 
+<<<<<<< 42c8c51ea6eebe280b4cbfb5792a6c7bafd082fd
 =head4 Arguments
+=======
+=head3 Arguments
+>>>>>>> change github and pod
 
 B<email>
 

@@ -9,7 +9,11 @@ use iRedAdmin::Admin;
 use iRedAdmin::Domain;
 use iRedAdmin::User;
 
+<<<<<<< 42c8c51ea6eebe280b4cbfb5792a6c7bafd082fd
 our $VERSION = '0.01';
+=======
+our $VERSION = '0.02';
+>>>>>>> change github and pod
 
 has 'url' => (
     is => 'ro',

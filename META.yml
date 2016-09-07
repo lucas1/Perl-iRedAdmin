@@ -31,7 +31,14 @@ requires:
   WWW::Mechanize: '0'
 resources:
   license: http://opensource.org/licenses/artistic-license-2.0.php
+<<<<<<< 42c8c51ea6eebe280b4cbfb5792a6c7bafd082fd
   bugtracker: https://github.com/lucas1/iRedAdmin/issues
   homepage: https://github.com/lucas1/iRedAdmin
   repository: git://github.com/lucas1/iRedAdmin.git  
 version: '0.01'
+=======
+  bugtracker: https://github.com/lucas1/Perl-iRedAdmin/issues
+  homepage: https://github.com/lucas1/Perl-iRedAdmin
+  repository: git://github.com/lucas1/Perl-iRedAdmin.git  
+version: '0.02'
+>>>>>>> change github and pod
