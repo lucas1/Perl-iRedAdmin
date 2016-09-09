@@ -55,15 +55,6 @@
          "http://opensource.org/licenses/artistic-license-2.0.php"
       ],      
       "bugtracker" : {
-         "web" : "https://github.com/lucas1/iRedAdmin/issues"
-      },
-      "homepage" : "https://github.com/lucas1/iRedAdmin",
-      "repository" : {
-         "url" : "git://github.com/lucas1/iRedAdmin.git",
-         "web" : "https://github.com/lucas1/iRedAdmin"
-      }
-   },   
-   "version" : "0.01"
          "web" : "https://github.com/lucas1/Perl-iRedAdmin/issues"
       },
       "homepage" : "https://github.com/lucas1/Perl-iRedAdmin",
