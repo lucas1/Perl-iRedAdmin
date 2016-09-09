@@ -1,11 +1,11 @@
 Revision history for iRedAdmin
 
-<<<<<<< 42c8c51ea6eebe280b4cbfb5792a6c7bafd082fd
-=======
+0.03    2016-09-08/23:34
+        Solved doc
+
 0.02    2016-09-07/15:25
         Change name github and solved pod
 
->>>>>>> change github and pod
 0.01    Date/time
         First version, released on an unsuspecting world.
 

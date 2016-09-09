@@ -102,11 +102,7 @@ iRedAdmin::Domain - API for add, edit, delete, enable and disable Domain
 
 =head1 VERSION
  
-<<<<<<< 42c8c51ea6eebe280b4cbfb5792a6c7bafd082fd
-Version 0.01
-=======
-Version 0.02
->>>>>>> change github and pod
+Version 0.03
  
 =cut
 
@@ -139,11 +135,7 @@ Method to add Domain.
 
 =cut
 
-<<<<<<< 42c8c51ea6eebe280b4cbfb5792a6c7bafd082fd
-=head4 Arguments
-=======
 =head3 Arguments
->>>>>>> change github and pod
 
 B<domain>
 
@@ -159,11 +151,7 @@ Method to edit Admin.
 
 =cut
 
-<<<<<<< 42c8c51ea6eebe280b4cbfb5792a6c7bafd082fd
-=head4 Arguments
-=======
 =head3 Arguments
->>>>>>> change github and pod
 
 B<name>
 
